@@ -13,23 +13,23 @@ A WhatsApp clone built with Flutter, providing core messaging functionalities li
 ## Screenshots
 
 ### 1. **Home Screen**
-![Home Screen](screenshots/screenshots/home.png)
-![Home Screen](screenshots/screenshots/home1.png)
-![Home Screen](screenshots/screenshots/home3.png)
+![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home1.png)
+![Home Screen](screenshots/home3.png)
 *The home screen displaying your chats and groups.*
 
 ### 2. **Updates Screen**
-![Update Screen](assets/screenshots/updates.png)
+![Update Screen](screenshots/updates.png)
 
 ### 3. **Calls Screen**
-![Call Screen](screenshots/screenshots/calls.png)
+![Call Screen](screenshots/calls.png)
 *The interface during voice or video calls.*
 
 ### 3. **Community Screen**
-![Call Screen](screenshots/screenshots/community.png)
+![Call Screen](screenshots/community.png)
 
 ### 5. **Settings Screen**
-![Settings Screen](screenshots/screenshots/chats.png)
+![Settings Screen](screenshots/chats.png)
 *Manage your account, privacy settings, and notifications.*
 
 ## Installation
